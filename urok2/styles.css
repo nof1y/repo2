@@ -1,0 +1,47 @@
+h1 {
+    background: rgb(255, 255, 255);
+}
+
+h2 {
+    background: rgb(41, 22, 249);
+    color: rgb(222, 182, 241);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+h3 {
+    background: rgb(241, 22, 22);
+    color: rgb(181, 210, 220);
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+}
+
+.hki {
+    border: 5px solid black;
+}
+
+.par1 {
+    background: blueviolet;
+    font-size: 18pt;
+    color: whitesmoke;
+}
+
+.par2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.par3 {
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: oblique;
+    filter: drop-shadow(3px 3px 3px rgb(40, 189, 107));
+}
