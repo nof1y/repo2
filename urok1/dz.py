@@ -1,8 +1,8 @@
-def isPalindrom(s1):
+def isPalindrom(string):
 
-    s2 = s1[::-1]
+    expandedstring = string[::-1]
 
-    if s1 == s2:
+    if string == expandedstring:
         return True
     else:
         return False
